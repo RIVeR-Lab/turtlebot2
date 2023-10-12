@@ -1,0 +1,17 @@
+depthimage_to_laserscan/
+ecl_core/
+ecl_lite/
+ecl_navigation/
+ecl_tools/
+kobuki/
+kobuki_core/
+kobuki_desktop/
+kobuki_msgs/
+turtlebot/
+turtlebot_apps/
+turtlebot_msgs/
+turtlebot_simulator/
+turtlebot_viz/
+yocs_cmd_vel_mux/
+yocs_controllers/
+yocs_msgs/
